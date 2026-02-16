@@ -16,7 +16,7 @@ Most of what I build runs on a home server, orchestrated by [OpenClaw](https://g
 
 [doc-convert](https://github.com/brezgis/doc-convert) · neural OCR for scanned PDFs, because old linguistics papers deserve better
 
-[radiooooo](https://github.com/brezgis/radiooooo) · `radio italy 1970`
+[radiooooo](https://github.com/brezgis/radiooooo) · `radio latvia 1990`
 
 <p align="center">☾ ⋆*･ﾟ:⋆*･ﾟ</p>
 
