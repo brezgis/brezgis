@@ -1,10 +1,10 @@
 ### Anna Brežġis · Анна Брежгис
 
-Computational linguistics at Brandeis. I study how languages organize attention differently, and what traces that leaves in embedding spaces.
+Computational linguistics at Brandeis. I study how to make computers understand language — and for the ones that already do, how they think.
 
 Most of what I build runs on a home server, orchestrated by [OpenClaw](https://github.com/openclaw/openclaw) agents. Claude writes most of the code. I write most of the words. The line blurs.
 
-<p align="center"><img src="divider.svg" width="400"/></p>
+<p align="center">☾ ⋆*･ﾟ:⋆*･ﾟ</p>
 
 [voice-pipeline](https://github.com/brezgis/voice-pipeline) · real-time voice conversation with an AI agent, running locally on one GPU
 
@@ -18,6 +18,6 @@ Most of what I build runs on a home server, orchestrated by [OpenClaw](https://g
 
 [radiooooo](https://github.com/brezgis/radiooooo) · `radio italy 1970`
 
-<p align="center"><img src="divider.svg" width="400"/></p>
+<p align="center">☾ ⋆*･ﾟ:⋆*･ﾟ</p>
 
 <sub>[brezgis.com](https://brezgis.com)</sub>
