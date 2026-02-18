@@ -4,7 +4,7 @@ Computational linguistics at Brandeis. I study how to help computers understand 
 
 Most of what I build runs on a home server, orchestrated by [OpenClaw](https://github.com/openclaw/openclaw) agents. Claude writes most of the code. I write most of the words. The line blurs.
 
-<p align="center">☾ ⋆*･ﾟ:⋆*･ﾟ</p>
+<p align="center">☾ ⋆*·˚:⋆*·˚</p>
 
 [voice-pipeline](https://github.com/brezgis/voice-pipeline) · real-time voice conversation with an AI agent, running locally on one GPU
 
@@ -18,6 +18,6 @@ Most of what I build runs on a home server, orchestrated by [OpenClaw](https://g
 
 [radiooooo](https://github.com/brezgis/radiooooo) · `radio latvia 1990`
 
-<p align="center">☾ ⋆*･ﾟ:⋆*･ﾟ</p>
+<p align="center">☾ ⋆*·˚:⋆*·˚</p>
 
 <sub>[brezgis.com](https://brezgis.com)</sub>
