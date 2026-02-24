@@ -1,8 +1,8 @@
 ### Anna Brežġis · Анна Брежгис
 
-Computational linguistics at Brandeis. I study how to help computers understand language — and for the ones that already do, how they think.
+Computational linguistics at Brandeis. I study how to help computers and people understand eachother, specifically via natural language.
 
-Most of what I build runs on a home server, orchestrated by [OpenClaw](https://github.com/openclaw/openclaw) agents. Claude writes most of the code. I write most of the words. The line blurs.
+Most of what I build runs on a home server, orchestrated by [OpenClaw](https://github.com/openclaw/openclaw) agents. Claude writes most of the code. I generate most of the ideas. The line blurs.
 
 <p align="center">☾ ⋆*·˚:⋆*·˚</p>
 
