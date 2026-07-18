@@ -1,12 +1,12 @@
 ### Anna Brežġis · Анна Брежгис
 
-Computational linguistics MS at Brandeis. I study how to help computers and people understand eachother via natural language.
+Computational linguistics MS at Brandeis. I study how to help computers and people understand each other via natural language.
 
 Most of what I build runs on a personal server, orchestrated by agents. Claude writes most of the code. I provide most of the ideas. Creativity abounds. 
 
 <p align="center">☾ ⋆*·˚:⋆*·˚</p>
 
-[voice-pipeline](https://github.com/brezgis/voice-pipeline) · real-time voice conversation with an AI agent, running locally on one GPU
+voice-pipeline · real-time voice conversation with an AI agent, running locally on one GPU
 
 [noosphere](https://github.com/brezgis/noosphere) · a private feed of daily generated cards — weather, Wittgenstein, untranslatable words, postcards from imaginary places
 
