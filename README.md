@@ -1,23 +1,8 @@
-### Anna Brežġis · Анна Брежгис
-
-Computational linguistics MS at Brandeis. I study how to help computers and people understand each other via natural language.
-
-Most of what I build runs on a personal server, orchestrated by agents. Claude writes most of the code. I provide most of the ideas. Creativity abounds. 
+### Anna Brežģis
+<sub>Анна Брежгис</sub>
 
 <p align="center">☾ ⋆*·˚:⋆*·˚</p>
 
-voice-pipeline · real-time voice conversation with an AI agent, running locally on one GPU
-
-[noosphere](https://github.com/brezgis/noosphere) · a private feed of daily generated cards — weather, Wittgenstein, untranslatable words, postcards from imaginary places
-
-[daily-briefing](https://github.com/brezgis/daily-briefing) · a morning newsletter written by a machine, styled like a letter from one
-
-[honeypot-dashboard](https://github.com/brezgis/honeypot-dashboard) · live SSH attack visualization on a server disguised as a Solana validator
-
-[doc-convert](https://github.com/brezgis/doc-convert) · neural OCR for scanned PDFs, because old linguistics papers deserve better
-
-[radiooooo](https://github.com/brezgis/radiooooo) · `radio latvia 1990`
+I make a lot of silly things and a few serious ones. The serious ones are usually about representation analysis. Go to [brezgis.com](https://brezgis.com) to see both.
 
 <p align="center">☾ ⋆*·˚:⋆*·˚</p>
-
-<sub>[brezgis.com](https://brezgis.com)</sub>
